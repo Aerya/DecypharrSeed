@@ -3,8 +3,7 @@
 </p>
 
 MàJ du 03.11.25 : la dernière version de Decypharr propose une option pour retirer l'annonce des .torrents.
-Dans ce cas, outre le fait que seeder soit inutile puisque les trackers ne verront jamais de téléchargement, DecypharrSeed deveibt intulisable puisque basé sur ces URLs.
-Je me suis amusé à me créer, c'était sympa !
+Dans ce cas, outre le fait que seeder soit inutile puisque les trackers ne verront jamais de téléchargement, DecypharrSeed devient inutilisable puisque basé sur ces URLs.
 
 
 
