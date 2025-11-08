@@ -2,6 +2,11 @@
   <img src="screens/DecypharrSeed.logo.name.png" alt="DecypharrSeed Logo" width="320" />
 </p>
 
+MàJ du 03.11.25 : la dernière version de Decypharr propose une option pour retirer l'annonce des .torrents.
+Dans ce cas, outre le fait que seeder soit inutile puisque les trackers ne verront jamais de téléchargement, DecypharrSeed devient inutilisable puisque basé sur ces URLs.
+
+
+
 **DecypharrSeed** est un outil web minimaliste de **gestion, suivi et envoi de torrents** basé sur les fichiers JSON issus de [**Decypharr**](https://github.com/sirrobot01/decypharr) ou d’autres outils équivalent (non testés).  
 Son objectif : centraliser, visualiser, et gérer facilement la diffusion de contenus seedés depuis une seedbox ou un environnement Docker, tout en conservant une traçabilité locale.
 
