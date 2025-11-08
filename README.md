@@ -2,7 +2,10 @@
   <img src="screens/DecypharrSeed.logo.name.png" alt="DecypharrSeed Logo" width="320" />
 </p>
 
-MàJ du 03.11.25 : la dernière version de Decypharr propose une option pour retirer l'annonce des .torrents.
+
+MàJ du 08.11.25 : la :latest est compatible amd64 et arm.  
+
+MàJ du 03.11.25 : la dernière version de Decypharr propose une option pour retirer l'annonce des .torrents.  
 Dans ce cas, outre le fait que seeder soit inutile puisque les trackers ne verront jamais de téléchargement, DecypharrSeed devient inutilisable puisque basé sur ces URLs.
 
 
