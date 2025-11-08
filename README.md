@@ -14,17 +14,6 @@ Dans ce cas, outre le fait que seeder soit inutile puisque les trackers ne verro
 Son objectif : centraliser, visualiser, et gérer facilement la diffusion de contenus seedés depuis une seedbox ou un environnement Docker, tout en conservant une traçabilité locale.
 
 
-<h1 align="center" style="color:red;">🚨 ATTENTION – VERSION BETA 🚨</h1>
-
-<p align="center">
-  <strong style="color:red; font-size:1.4em;">
-    Ce projet est actuellement en <u>phase BETA</u>.<br>
-    Des évolutions ou mises à jour peuvent <u>corrompre la base de données</u>,<br>
-    casser certaines fonctionnalités, ou rendre l’application instable.<br><br>
-    NE PAS UTILISER EN PROD !
-  </strong>
-</p>
-
 
 ## 🐳
 
